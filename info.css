@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+* {
+    font-family: Montserrat;
+    text-decoration: none;
+}
+
+.info {
+    border: 5px solid black;
+
+}
+
+.apacia {
+    border: 5px solid black;
+    text-align: center;
+    height: 90px;
+    background: #1C1C1C;
+    font-size: 2em;
+   
+}
